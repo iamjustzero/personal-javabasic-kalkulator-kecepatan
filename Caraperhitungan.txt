@@ -1,0 +1,4 @@
+Rumus dasarnya
+v=s/t
+t=s/v
+s=v*t
